@@ -39,12 +39,9 @@ RUN cd RetroPie-Setup && \
 RUN sudo echo 'default = "openmsx"' >>  /opt/retropie/configs/msx/emulators.cfg && \ 
     sudo echo 'default = "lr-snes9x"' >>  /opt/retropie/configs/snes/emulators.cfg 
 
-RUN echo 'audio_driver = "alsa"' >> /opt/retropie/configs/all/retroarch.cfg
-
 RUN sudo chown -R pi.pi /home/retropie \
     && sudo chown -R pi.pi /opt/retropie/configs/all/emulationstation/gamelists/
 
 RUN sudo usermod -aG adm,dialout,cdrom,sudo,audio,video,plugdev,games,users pi
 ENTRYPOINT "/usr/bin/emulationstation"
 CMD "#auto"
-
