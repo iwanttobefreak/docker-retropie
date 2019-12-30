@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Konami's Soccer (Japan).rom</path>
+		<name>Konami's Soccer (Japan)</name>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<playcount>10</playcount>
+		<lastplayed>20191230T002212</lastplayed>
+                <video>~/.emulationstation/downloaded_images/msx/Konami's Soccer (Japan)-video.mp4</video>
+	</game>
+	<game>
+		<path>./penguin_adventure.zip</path>
+		<name>penguin_adventure</name>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<playcount>9</playcount>
+		<lastplayed>20191230T001851</lastplayed>
+                <video>~/.emulationstation/downloaded_images/msx/penguin_adventure-video.mp4</video>
+	</game>
+	<game>
+		<path>./Salamander (Japan).rom</path>
+		<name>Salamander (Japan)</name>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<playcount>5</playcount>
+		<lastplayed>20191230T003237</lastplayed>
+                <video>~/.emulationstation/downloaded_images/msx/Salamander (Japan)-video.mp4</video>
+	</game>
+	<game>
+		<path>./Triple Comando (1988)(Dro Soft)(es).dsk</path>
+		<name>Triple Comando (1988)(Dro Soft)(es)</name>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<playcount>5</playcount>
+		<lastplayed>20191230T003244</lastplayed>
+	</game>
+</gameList>

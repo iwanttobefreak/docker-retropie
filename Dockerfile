@@ -26,6 +26,18 @@ COPY files/roms/snes/* /home/retropie/RetroPie/roms/snes/
 COPY files/videos/snes/* /home/retropie/.emulationstation/downloaded_images/snes/
 COPY files/gamelist/snes/gamelist.xml /opt/retropie/configs/all/emulationstation/gamelists/snes/gamelist.xml
 
+COPY files/roms/msx/* /home/retropie/RetroPie/roms/msx/
+COPY files/videos/msx/* /home/retropie/.emulationstation/downloaded_images/msx/
+COPY files/gamelist/msx/gamelist.xml /opt/retropie/configs/all/emulationstation/gamelists/msx/gamelist.xml
+
+RUN cd RetroPie-Setup && \
+    export TZ=Europe/Madrid && \
+    sudo ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && \
+    sudo apt-get -y install tzdata && \
+    sudo ./retropie_packages.sh openmsx
+
+RUN sudo echo 'default = "openmsx"' >>  /opt/retropie/configs/msx/emulators.cfg && \ 
+    sudo echo 'default = "lr-snes9x"' >>  /opt/retropie/configs/snes/emulators.cfg 
 
 RUN sudo chown -R pi.pi /home/retropie \
     && sudo chown -R pi.pi /opt/retropie/configs/all/emulationstation/gamelists/
