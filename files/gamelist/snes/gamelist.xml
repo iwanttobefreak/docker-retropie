@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./BomberMan.zip</path>
+		<name>BomberMan</name>
+		<playcount>2</playcount>
+		<lastplayed>20191230T004439</lastplayed>
+		<video>~/.emulationstation/downloaded_images/snes/BomberMan-video.mp4</video>
+	</game>
+	<game>
+		<path>./Lemmings 2 - The Tribes (USA).zip</path>
+		<name>Lemmings 2 - The Tribes (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20191230T010806</lastplayed>
+		<video>~/.emulationstation/downloaded_images/snes/Lemmings 2 - The Tribes (USA)-video.mp4</video>
+	</game>
+	<game>
+		<path>./Paperboy 2 SNES (USA).zip</path>
+		<name>Paperboy 2 SNES (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20191230T011613</lastplayed>
+		<video>~/.emulationstation/downloaded_images/snes/Paperboy 2 SNES (USA)-video.mp4</video>
+	</game>
+	<game>
+		<path>./Street Fighter Alpha 2 (USA).zip</path>
+		<name>Street Fighter Alpha 2 (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20191230T012136</lastplayed>
+		<video>~/.emulationstation/downloaded_images/snes/Street Fighter Alpha 2 (USA)-video.mp4</video>
+	</game>
+	<game>
+		<path>./Street Fighter II (USA).zip</path>
+		<name>Street Fighter II (USA)</name>
+		<playcount>2</playcount>
+		<lastplayed>20191230T012325</lastplayed>
+		<video>~/.emulationstation/downloaded_images/snes/Street Fighter II (USA)-video.mp4</video>
+	</game>
+	<game>
+		<path>./Street Fighter II Turbo (USA).zip</path>
+		<name>Street Fighter II Turbo (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20191230T012413</lastplayed>
+		<video>~/.emulationstation/downloaded_images/snes/Street Fighter II Turbo (USA)-video.mp4</video>
+	</game>
+	<game>
+		<path>./Sunset Riders (USA).zip</path>
+		<name>Sunset Riders (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20191230T013722</lastplayed>
+		<video>~/.emulationstation/downloaded_images/snes/Sunset Riders (USA)-video.mp4</video>
+	</game>
+	<game>
+		<path>./Super Mario All-Stars (USA).zip</path>
+		<name>Super Mario All-Stars (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20191230T014042</lastplayed>
+		<video>~/.emulationstation/downloaded_images/snes/Super Mario All-Stars (USA)-video.mp4</video>
+	</game>
+	<game>
+		<path>./Super Mario Kart (USA).zip</path>
+		<name>Super Mario Kart (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20191230T014154</lastplayed>
+		<video>~/.emulationstation/downloaded_images/snes/Super Mario Kart (USA)-video.mp4</video>
+	</game>
+	<game>
+		<path>./Super Mario RPG - Legend of the Seven Stars (USA).zip</path>
+		<name>Super Mario RPG - Legend of the Seven Stars (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20191230T014325</lastplayed>
+		<video>~/.emulationstation/downloaded_images/snes/Super Mario RPG - Legend of the Seven Stars (USA)-video.mp4</video>
+	</game>
+	<game>
+		<path>./Super Mario World (USA).zip</path>
+		<name>Super Mario World (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20191230T015142</lastplayed>
+                <video>~/.emulationstation/downloaded_images/snes/Super Mario World (USA)-video.mp4</video>
+	</game>
+	<game>
+		<path>./Super Mario World 2 - Yoshi's Island (USA).zip</path>
+		<name>Super Mario World 2 - Yoshi's Island (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20191230T015214</lastplayed>
+                <video>~/.emulationstation/downloaded_images/snes/Super Mario World 2 - Yoshi's Island (USA)-video.mp4</video>
+	</game>
+</gameList>

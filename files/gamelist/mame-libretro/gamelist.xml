@@ -1,0 +1,1321 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="39876" source="screenscraper.fr">
+		<path>./1943kai.zip</path>
+		<name>1943 Kai - Midway Kaisen</name>
+		<desc>An update of 1943 with tweaked weapons, fewer levels, and a new soundtrack.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/1943kai-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em up / Vertical / Shoot'em Up</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/1943kai-video.mp4</video>
+	</game>
+	<game id="39874" source="screenscraper.fr">
+		<path>./1942.zip</path>
+		<name>1942</name>
+		<desc>&amp;quot;1942&amp;quot; is a vertically-scrolling shoot-em-up set in the Pacific theatre during World War II, in which the goal is to reach Tokyo and destroy the entire Japanese air fleet. 
+
+The player pilots a plane dubbed the &amp;quot;Super Ace&amp;quot; (its appearance is that of a Lockheed P-38 Lightning) and has to shoot down waves of enemy planes while avoiding incoming enemy fire. The 'Super Ace' can perform a limited number of rolls or 'loop-the-loops' to evade enemy planes and shots. 
+
+During the game, waves of red enemy planes periodically appear. If the player manages to destroy a red wave, a power-up, in the form of a 'POW' symbol, will be dropped and can be picked up. The power-up will award either increased fire-power (doubling the player's guns from two to four), a smart bomb that destroys all on-screen enemy planes the instant it's collected, two wingmen planes that flank the Super Ace and increase fire power, or simply extra points.
+
+At the end of each stage the 'Super Ace' lands on an aircraft carrier and bonus points are awarded based on player performance. &amp;quot;1942&amp;quot; differs from other games in that its levels are numbered in reverse order, so the game begins at stage 32 and ends at stage 1.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/1942-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em up / Vertical / Shoot'em Up</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/1942-video.mp4</video>
+	</game>
+	<game id="39875" source="screenscraper.fr">
+		<path>./1943.zip</path>
+		<name>1943 - The Battle Of Midway</name>
+		<desc>The game is set in the Pacific theater of World War II, off the coast of the Midway Atoll. The goal is to attack the Japanese Air Fleet that bombed the players' American Aircraft Carrier, pursue all Japanese Air and Sea forces, fly through the 16 levels of play, make their way to the Japanese battleship Yamato and destroy her. 11 Levels consist of an Air-to-Sea battle (with a huge battleship or an aircraft carrier as an End-Level Boss), while 5 levels consist of an all-aerial battle against a squadron of Japanese Bombers and a Mother Bomber that needs to be destroyed.
+As in 1942, players pilot a P-38. Two buttons are used: one for regular attacks (with several weapons) and one for special actions that executes either a loop like in 1942 or one of three special attacks that damage the plane. Unlike 1942, the player only has one life, with one refillable energy meter. Destroying a complete formation of red enemy planes will result in a power-up, such as a health boost or a temporary special weapons which replaces the default twin gun.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/1943-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em up / Vertical / Shoot'em Up</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/1943-video.mp4</video>
+	</game>
+	<game id="39992" source="screenscraper.fr">
+		<path>./altbeast.zip</path>
+		<name>Altered Beast</name>
+		<desc>Altered Beast is a side scrolling, platform, beat 'em up game that puts the player in control of a centurion who had died in battle. The centurion has been raised from the dead to rescue Zeus' daughter Athena from the demon Neff. The player battles undead and demonic hordes, controlling the shapeshifting hero. He must fight through several levels in order to save the kidnapped goddess.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/altbeast-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform / Plateform / Fighter Scrolling</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/altbeast-video.mp4</video>
+	</game>
+	<game id="40060" source="screenscraper.fr">
+		<path>./arkanoid.zip</path>
+		<name>Arkanoid</name>
+		<desc>After a sudden alien assault, the Arkanoid spaceship has been destroyed and the only survivor, the small 'Vaus' space vessel, has been mysteriously trapped in another dimension by an unknown enemy. The player is charged with helping the 'Vaus' overcome the security systems, as well as the many enemies that guard them, before finally finding and destroying 'DOH', the alien responsible for the attack.
+
+Arkanoid is an update of the early ball and paddle video games - and specifically of Atari's 1978 classic, &amp;quot;Super Breakout&amp;quot; - in which the player takes control of a paddle at the bottom of the screen and must use it to deflect a ball into rows of bricks at the top of the screen, thus destroying them and, eventually, clearing the screen to progress to the next level. 
+
+As well as impressive and colourful graphics, Arkanoid introduced a number of new elements to the classic bat 'n' ball gameplay. Certain bricks, when destroyed, would release a power-up - in the form of a falling capsule. the player had to catch the capsule to retrieve the power-up. Among the many enhancements the power-ups provided were an increased 'bat' size, multiple balls, 'sticky' ball (which would stick to the bat and could be released when the player chose) and even a laser, which allowed the player to shoot the bricks.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/arkanoid-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Action / Breakout games</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/arkanoid-video.mp4</video>
+	</game>
+	<game id="40207" source="screenscraper.fr">
+		<path>./battleg.zip</path>
+		<name>Battle Garegga</name>
+		<desc>An excellent vertically shoot'em up.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/battleg-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Raizing</developer>
+		<publisher>Raizing / Eighting</publisher>
+		<genre>Shoot'em up / Vertical / Shoot'em Up</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/battleg-video.mp4</video>
+	</game>
+	<game id="40279" source="screenscraper.fr">
+		<path>./blockout.zip</path>
+		<name>Block Out</name>
+		<desc>Block Out is a 1-player or a simultaneous 2 players competitive game of unique dimensional action and strategy.
+As the blocks drop one-by-one into the three-dimensional pit, rotate them by using the three buttons and joystick. Once the player has decided on the the rotation of the block, use the button to drop the block into place. The objective is to place the blocks into the pit without leaving any empty spaces. Once this is achieved, the layers without empty spaces, will disappear.
+
+The player begins the game by selecting a starting stage. Game start level select can be chosen from stages 1, 5, 10, 15, or 20. There is a total of 100 stages in the game and as the players progress through the game, the stages get more and more difficult.
+Each stage has a certain number of layers (faces) that must be erased. Once these faces are erased, the player will move on to the next stage. The less blocks the players has left in the pit at the end of the stage, the more points are awarded.
+
+In addition to the one player mode, Block Out offers a competitive simultaneous two player mode. The split screen effect gives each player their own pit with which to play in. They compete against each other in the race to erase the faces. As one player erases a face, that face will be added to the opponent's pit, making their pit rise. This allows less room to work. There are two ways to win in the 2-player mode:
+1) Force the opponent to the top of their pit and out of the game
+or
+2) Erase 21 faces first.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/blockout-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Technos Japan Corp.</developer>
+		<publisher>Technos Japan Corp.</publisher>
+		<genre>Puzzle-Game / Puzzle-Game / Fall</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/blockout-video.mp4</video>
+	</game>
+	<game id="40280" source="screenscraper.fr">
+		<path>./bloodbro.zip</path>
+		<name>Blood Bros.</name>
+		<desc>In the far west, ruthless bandits terrorized the good people and is up to you to stop them and their vast weapon arsenal in order to bring peace to this troubled land. Features destructible background objects and lots of weapons! Despite the western concept, this game features almost identical mechanics to TAD's previous shooter &amp;quot;Cabal&amp;quot;.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/bloodbro-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Tad Corporation</developer>
+		<publisher>Tad Corporation</publisher>
+		<genre>Shooter / Shooter / 3rd person</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/bloodbro-video.mp4</video>
+	</game>
+	<game id="40325" source="screenscraper.fr">
+		<path>./bombjack.zip</path>
+		<name>Bomb Jack</name>
+		<desc>Bomb Jack is a fast-moving platform game in which the aim is to collect all of the bombs on each level before progressing to the next. A variety of constantly spawning mechanical enemies patrol the platforms and airspace so the longer a player takes to collect all of the bombs, the more difficult progress becomes. 
+
+Extra point bonuses are awarded for collecting bombs with their fuses lit. Only one bomb at any time has a lit fuse, and collecting twenty or more of these lit bombs on any given level will earn the player points bonus (see TIPS AND TRICKS for details). Jack is pursued around each level by the spawning enemies and when he gets killed, he drops down to the nearest platform, always landing on his head. 
+
+A 'Powerball' appears at semi-regular intervals and moves diagonally around the screen. If the player manages to grab this, all of the level's monsters are frozen for several seconds and can then be killed by having Jack fly into them (similar to the 'Powerpill' feature in &amp;quot;Pac-Man&amp;quot;). Collecting the Bonus 'B' symbols will increase the amount of points awarded for collecting bombs with their fuses lit. Picking up an 'Extra' symbol awards the player with an additional life, while catching the 'Special' symbol will give the player an extra credit. 
+
+Each of Bomb Jack's levels feature one of five different background pictures, some of which represent famous historical landmarks. They are: the Sphinx in Egypt, the Acropolis in Greece, Castle Neuschwanstein in Bavaria, skyscrapers and a cityscape by night. While the backgrounds themselves are repeated as the game progresses, the platform layouts for each level are completely different. At least until level 18, after which the levels are repeated. 
+
+The basic play mechanic of collecting objects to clear a level, as well as the powerball feature, is hugely reminiscent of Namco's seminal &amp;quot;Pac-Man&amp;quot;.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/bombjack-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Tehkan Ltd.</developer>
+		<publisher>Tehkan Ltd.</publisher>
+		<genre>Platform / Plateform / Run Jump</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/bombjack-video.mp4</video>
+	</game>
+	<game id="40620" source="screenscraper.fr">
+		<path>./combasc.zip</path>
+		<name>Combat School</name>
+		<desc>
+Combat School is multi-event combat-themed sports game for one or two players, similar in gameplay style to Konami's earlier Track and Field games. Players must compete in a series of boot-camp style events under the watchful eye of the strict drill instructor, with the ultimate aim of completed all events and graduating as a full soldier.
+
+The game is composed of seven training events, each of which must be completed within a set time to progress to the next. If players only narrowly miss out on qualifying in an event, they must complete a set number of chin-ups as punishment. If they manage this within the time limit, they can progress to the next event. This only occurs once per round, however.
+
+</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/combasc-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Sports / Sports / Running trails</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/combasc-video.mp4</video>
+	</game>
+	<game id="40660" source="screenscraper.fr">
+		<path>./commando.zip</path>
+		<name>Commando</name>
+		<desc>Commando is a vertically scrolling shoot'em up in which the player takes on the role of a highly trained commando soldier called &amp;quot;Super Joe&amp;quot;, who starts the game by being dropped off in a jungle by a helicopter. 
+
+Joe's mission is to rescue captives and destroy the enemy bases and strongholds that appear at the end of each level, killing as many enemy soldiers as possible in the process. 
+
+The end-of-level strongholds see waves of enemy soldiers ordered to attack by a cowardly officer, who immediately runs away. Shooting the fleeing officer earns the player bonus points. Along the way, players can attempt to free prisoners-of-war by shooting their enemy guard escorts as they are transported across the screen.
+
+Super Joe carries only two weapons: a limited-range machine gun with unlimited shots, and a limited supply of hand grenades. Extra grenades can be picked up as the player progresses through the levels.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/commando-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Data East</publisher>
+		<genre>Shooter / Shooter / Run and Shoot</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/commando-video.mp4</video>
+	</game>
+	<game id="149432" source="screenscraper.fr">
+		<path>./ddragon.zip</path>
+		<name>Double Dragon</name>
+		<desc>Double Dragon is a side-scrolling beat-em-up for one or two players, featuring twin brothers and martial arts masters, &amp;quot;Billy &amp; Jimmy Lee&amp;quot;. The brothers must defeat the savage street gang known as the 'Black Warriors' to rescue Billy's kidnapped girlfriend, Marian. Standing between the brothers and Marian are four huge, colorful and varied levels; each populated with a wide variety of thugs.
+
+Many of the game's enemies carry weapons (knives, baseball bats etc.) and should Billy or Jimmy manage to knock the weapons from the enemies' hands, the heroes can pick the weapons up and use them against the enemies.
+
+The Black Warriors is made up of six distinct enemy characters- plus Willy, the game's final boss - with each differing in both physical appearance and fighting style. The members of the Black Warriors consist of the following fighters: 
+Williams - A street punk in a tank top. In addition to the standard punches and jump kicks, his signature technique is a body blow to the stomach. He also wields weapons such as baseball bats, knives and dynamite sticks.
+Rowper - A punk who wears matching-colored pants and shirtless vest. He wields all the same weapons as Williams, but can also lift and throw heavy objects such as oildrums, boxes and stones.
+Linda - Female punk who usually carries a whip. She's not very strong, as she falls down to ground with a couple of punches or a single kick (because of this, she is the only regular-sized enemy who cannot be placed on a headlock).
+Abobo - A tall, big-muscled bald guy. His attacks includes punches, a standing kick and a body toss. He can also lift and throw heavy objects like Rowper. Due to his large size, he cannot be put into a headlock.
+Boss 1 - The first boss, a head-swap of Abobo with a Mr. T-style mohawk and beard. Fights just like Abobo, only with an added double-handed slap. Unlike Abobo, he does not use weapons. A green version of him appears as the Mission 3 boss.
+Boss 2 - The second boss. A head swap of the player who uses almost all the same techniques. 
+Willy - The game's final boss, armed, somewhat unfairly, with a machine-gun.
+
+Double Dragon was a huge success due to the many game-play innovations it brought to the genre (see TRIVIA for details), but it demonstrates its final moment of inspired genius at the very end of the game. Should both players still be alive after the final boss has been defeated, they will then have to fight each OTHER. The winner of this fight will be the one who wins Marian's affections.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/ddragon-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Technos Japan Corp.</developer>
+		<publisher>Taito</publisher>
+		<genre>Plateform / Fighter Scrolling / Platform</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/ddragon-video.mp4</video>
+	</game>
+	<game id="40863" source="screenscraper.fr">
+		<path>./ddragon2.zip</path>
+		<name>Double Dragon 2 - The Revenge</name>
+		<desc>Following his defeat at the end of the original Double Dragon, Willy, the leader of the Black Warriors, retaliates against Billy and Jimmy Lee by murdering their friend, Marian, leaving the brothers with the task to avenge her death.
+
+The sequel to Double Dragon is essentially an upgraded version of the original game, but with with a two-way attacking system similar to one previously used in Technos Japan's 1986 arcade game &amp;quot;Renegade&amp;quot;. Many of the attacks and combos from the original &amp;quot;Double Dragon&amp;quot; are retained, as well as new techniques including the invincible Cyclone Kick.
+
+The stages and weapons are redesigned versions of items previously featured in the original game. There are a few new traps such as a bulldozer in the middle of Mission 3 and all of the transition sequences between stages are now done with the character entering the next level via a lift, making it impossible to carry one weapon to the next area.
+
+Most of the enemy characters return from the original Double Dragon, with some given facelifts, but the stage bosses are all new. The enemies are as followed:
+Williams - Has a wilder face and longer hair. He can now run towards the player and do cartwheels. He throws his knives in mid-air and sometimes carry a shovel which he throws towards the player.
+Rowper - Has a beard and eye-patch, but otherwise is more or less identical to his original self. He carries shovels and can sometime pick up large objects.
+Linda - She now has a mohawk and face paint. She can also jump off platforms and do the elbow strike against the player. In addition to the ball and chain, she also carries grenades and knives.
+Oharra - A strongman with a clean-shaved face. Replaces Abobo from the first game and has the same attacks.
+Bolo - A head-swap of Oharra with long hair and beard. Replaces the mohawked head-swap of Abobo from the first game.
+Jeff - Same as his original self, but now carries grenades.
+Burnov - The boss of Mission 1. An obese wrestler whose face is concealed with a mask. He grabs the player and throws similar punches in the face. After dying, he will stand up and yell, disappearing in front of the player and leaving only his clothes. In later encounters, he will revive himself at least once.
+Abore - The boss of Mission 2. A huge suspender-wearing strongman with Terminator-like sunglasses. His slaps and shoulder tackles do massive damage to the player.
+Chin Taimei - The boss of Mission 3. A Chinese martial artists armed with twin kali sticks. In addition to his energy-draining stick combo, he also has a jump kick and sweep kick.
+Willy - The boss of Mission 4. Looks like he does in the original game, but now dresses in red. He still uses the same machine gun from the first game.
+The clone - After defeating Willy, the player will have to fight their character's evil self. This clone has all the techniques the player has, but can also throw energy beams and possess the player's body to drain his energy.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/ddragon2-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Technos Japan Corp.</developer>
+		<publisher>Technos Japan Corp.</publisher>
+		<genre>Fight / Fight / 2.5D</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/ddragon2-video.mp4</video>
+	</game>
+	<game id="40864" source="screenscraper.fr">
+		<path>./ddragon3.zip</path>
+		<name>Double Dragon 3 - The Rosetta Stone</name>
+		<desc>A mysterious fortune teller warns Billy &amp; Jimmy Lee about the rise of a powerful enemy in Egypt. Since the Lee brothers are looking for a true challenge to put their martial arts skills to the ultimate test, they agree to face this mysterious new enemy. They embark on a world quest - joining up with new allies in the process - and try to lay claim to the famous 'Rosetta Stone'.
+
+The 3rd and final arcade entry of the Double Dragon series (not counting the later Neo-Geo fighting game based on the movie) features a completely gameplay system and graphics from the first two installments. The game can played by up to 2 or 3 players, depending on the cabinet and settings. The 3rd player takes control of a yellow-clad Lee brother named Sonny, who is exclusive to this game. Techniques from the previous games such as the hair grab and the elbow punch are gone, but new ones are added such as the belly-to-back throw and the back-to-back hurricane kick, as well as the ability to dash by tapping the joystick left or right twice.
+
+The game features weapon shops that allows the player to purchase power-ups by inserting additional tokens. The power-ups differ between stages differ between stages and are available as followed.
+Extra Guys - Allows the player to control a new character who replaces the current fighter when he dies. There are three character types in addition to the Lee brothers.
+The Urquidez Brothers (Roney, Sunny, Jonny) -  Tall European grapplers. They have the most energy of the four character types.  Up to three fighters can be have in reserve.
+The Chin Brothers (Seimei, Taimei, Sinmei) - Chubby Chinese men with powerful attacks.
+The Oyama Brothers (Masao, Kunio, Akira) - Japanese karate masters dressed in gis specializing in speedy attacks.
+? Tricks - The hurricane kick and the one-armed stand head butt are added to the player's move set. If the player's current character dies, then the new techniques will be inherited by the next character in reserve, if there is one.
+Weapons - A nunchaku or sword are given player. Only the Lees can have purchase and wield weapons.
+Energy - Restores the current character's life to 150%.
+Power-Up - Increases the character's agility.
+
+There are 5 stages in the game:
+
+Mission 1 - America - The enemies in this stage are typical thugs and bikers. The first area takes place in a downtown area of city. After defeating the first wave of enemies, the player will enter a warehouse, where they encounter bikers that will try to run over them with their bike. The boss in this is Jim, a red-haired biker wearing a leather jacket.
+
+Mission 2 - China - The enemies are martial artists that specialize in flying kicks. The stage takes place in a single level set in a countryside near the Great Wall of China. The boss at the end of level is Li Cheng-Long, a Shaolin Martial Arts expert who resembles Bruce Lee. When he's down in life, he will wield out his club.
+
+Mission 3 - Japan - The enemies are samurai swordsmen. The first area takes place outside a castle, with bamboo traps and enemies coming out of walls. The second area takes place inside a castle, where the player will face a few more swordsmen before taking out on the boss, Ranzou, a ninja. He attacks with throwing stars and smoke bombs and splits into three forms when he's down on his life.
+
+Mission 4 - Italy - Consists of a single level set in the ruins of a coliseum. The enemies are roman archers. After defeating most of the archers, the boss Giuliano, a man decked in gladiator armor, will attempt to run the player over with his horse. After defeating all the archers, Giuliano will dismount at the end of the level and fight the player. He wields a long hand spear and can block attacks with his shield.
+
+Mission 5 - Egypt - The final stage is composed of seven levels, which includes a desert field, an underground forest, a trap room with stone pillars and giant hands emerging from the floor, a hall with a flying disc. Enemies include living tree men and rock creatures.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/ddragon3-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Technos Japan Corp.</developer>
+		<publisher>Technos Japan Corp.</publisher>
+		<genre>Fight / Fight / 2.5D</genre>
+		<players>3</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/ddragon3-video.mp4</video>
+	</game>
+	<game id="40920" source="screenscraper.fr">
+		<path>./digdug.zip</path>
+		<name>Dig Dug</name>
+		<desc>Dig Dug is single screen action game in which the player must dig horizontal and vertical tunnels to reach and eliminate the underground-dwelling monsters living there. This is achieved by either inflating them with an air pump until they explode, or by dropping rocks onto them. </desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/digdug-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Action / Labyrinth / Action</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/digdug-video.mp4</video>
+	</game>
+	<game id="40921" source="screenscraper.fr">
+		<path>./digdug2.zip</path>
+		<name>Dig Dug 2</name>
+		<desc>For this sequel to the 1982 classic, &amp;quot;Dig Dug&amp;quot;, Namco changed the game's perspective from a cutaway side-on viewpoint to an overhead one. The action now takes place on a series of small islands, the gameplay itself retains much from its predecessor, with Dig Dug still being chased by the 'Pookas' (round, goggle-wearing red enemies) and the 'Fygers' (green, fire-breathing dragons).
+
+As with the first game, Dig Dug is still armed with a pump that allows him to inflate and burst the enemies. For the sequel, however, he is also armed with a jackhammer. This can be used at the round ground-pegs scattered around each island to create and connect up fault lines in the ground. If both ends of a system of faults reaches the water, the ground surrounded by them will sink into the ocean killing all creatures on it, including Dig Dug himself if he is standing on the destroyed section of land.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/digdug2-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Thunder Mountain</publisher>
+		<genre>Action / Labyrinth / Action</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/digdug2-video.mp4</video>
+	</game>
+	<game id="149801" source="screenscraper.fr">
+		<path>./dkong.zip</path>
+		<name>Donkey Kong</name>
+		<desc>An absolutely legendary arcade game in which the player takes on the role of Mario - who makes his debut in this game, and would go on to become a gaming legend - and must battle his way to the top of each level to rescue h</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/dkong-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform / Plateform / Run Jump</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/dkong-video.mp4</video>
+	</game>
+	<game id="40939" source="screenscraper.fr">
+		<path>./dkong3.zip</path>
+		<name>Donkey Kong 3</name>
+		<desc>Stanley is a bugman. Donkey Kong has taken refuge in his greenhouse and it is now up to Stanley to stop the ape from stirring up any more insects that will soon destroy his flowers. Stanley saves the flowers by spraying bug spray on Donkey Kong.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/dkong3-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform / Plateform / Run Jump</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/dkong3-video.mp4</video>
+	</game>
+	<game id="41020" source="screenscraper.fr">
+		<path>./driftout.zip</path>
+		<name>Drift Out</name>
+		<desc>An overhead-view racing game.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/driftout-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Visco</developer>
+		<publisher>Visco</publisher>
+		<genre>Race, Driving / Race, Driving / Race</genre>
+		<players>1</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/driftout-video.mp4</video>
+	</game>
+	<game id="41148" source="screenscraper.fr">
+		<path>./f1dream.zip</path>
+		<name>F-1 Dream</name>
+		<desc>You take the role of a newcomer race driver. Beginning in the Formula 3000, you will have to prove yourself worthy of being promoted to Formula 1 and challenge the best drivers of the late eighties.
+
+F-1 Dream is not one of Capcom's best known games. From a top-down perspective and decorated with cute &amp;quot;deformed&amp;quot; graphics, it may offer a serious challenge. There are essentially two race instances: first you have to beat the clock in a single lap to qualify for a good position in the race, and second you have to beat your opponents. You also have to keep an eye on your car's condition, as the tyres and body wear out, so part of your strategy must consider pit stops.
+
+Despite its looks, F-1 Dream is not a parody game. Released in 1988, it's in fact very respectful towards the sport, featuring little details which add realism to it. This includes several real brands advertised in the game, and others which have one or two letters changed in the logo, but are very easy to recognize. So it is with your opponents, featuring the great Ayrton Senna, Alain Prost or Nigel Mansell. The car behavior also features skids when speeding at corners, gears, and damage.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/f1dream-image.jpg</image>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Race, Driving / Race, Driving / Race</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/f1dream-video.mp4</video>
+	</game>
+	<game id="149458" source="screenscraper.fr">
+		<path>./footchmp.zip</path>
+		<name>Football Champ</name>
+		<desc>Take your pick between eight international football teams and then test your skills and reflexes to the limit as you try to win the one and only World Cup! A draw is not a win and will mean you've lost so play well and ensure you get consistent wins to progress well through the ranks of the awesome Football Champ! Beat all the teams to witness your squad carrying the trophy in front of adoring fans! Become the champion you've always know you are!</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/footchmp-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Sports / Sports / Soccer</genre>
+		<players>4</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/footchmp-video.mp4</video>
+	</game>
+	<game id="41332" source="screenscraper.fr">
+		<path>./galaga88.zip</path>
+		<name>Galaga '88</name>
+		<desc>Galaga '88 is an updated version of the old favorite, &amp;quot;Galaga&amp;quot;, with more invaders and more player firepower. Galaga '88 gives players a chance to once again repel the invaders from the Galagan Kingdom. One or two players can try their hand at fighting the invaders. This time the Galagans have four more allies, each with unique weapons and defenses that a player must overcome. 
+
+By destroying special enemies or obstacles the player can get 'items'. When a player has two items, they can warp to another dimension to confront more Galagan ships with new strategies. In the Challenging Stages (labelled in this game as 'That's Galactic Dancin'), the player shoots down as many invaders as possible as the Galagans dance to a waltz, tango, march or jazz tune. 
+
+The player selects single or dual ship power. The objective is to destroy all the Galagan foes in each of the 29 sectors of the galaxy, with each sector more difficult than the last. 
+
+Unique Features: 
+More opponents. In addition to Boss, Goei and Zako, the original Galagan crew, Don, Nin, Ban, and Gan have been added. Each of the Galagans has a unique way of challenging the players. 
+Different types of ships. Players can choose single or dual ships (if the game option is set for dual and single). When the player retrieves a dual ship from the Boss's tractor beam, it turns into a triple ship with ten times the power of a single ship. 
+Challenging Stages. In the 'That's Galactic Dancin' stages, the Galagan invaders dance to a waltz, tango, Sousa march or jazz tune, while the player shoots down Galagans to earn bonus points. 
+Warping to a new dimension. By destroying particular enemies or obstacles and capturing two of their items, the player can warp to the next dimension. 
+Player challenge. Each dimension has different mix of Galagans with different strategies to be overcome. 
+Win back captured ships. The player can win back ships captured in the Boss Galaga's tractor beam. When the player destroys the Boss, the ships are released. If the player retrieves them, the ships become dual ships if they were single and triple if they were dual. 
+High Score Mode. Upon completing a game, a player can enter his initials if they are among the top eight scorers on the game.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/galaga88-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Shooter / Shooter / Space Invaders Like</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/galaga88-video.mp4</video>
+	</game>
+	<game id="41336" source="screenscraper.fr">
+		<path>./galaxian.zip</path>
+		<name>Galaxian</name>
+		<desc>Galaxian is a legendary single-screen shoot-em-up that took everything that made Taito's ground-breaking &amp;quot;Space Invaders&amp;quot; so good, and improved upon it on every level. Each screen starts with a wave of multi-colored aliens moving left and right at the top of the screen; the aliens quickly break ranks and start dive-bombing the Galaxip (player's ship) - either in single units or in groups of 3 - dropping multiple missiles as they descend. All of the aliens need to be destroyed before the player can progress to the next wave. </desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/galaxian-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19790101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Shooter / Shooter / Space Invaders Like</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/galaxian-video.mp4</video>
+	</game>
+	<game id="41395" source="screenscraper.fr">
+		<path>./gaunt2.zip</path>
+		<name>Gauntlet 2</name>
+		<desc>Gauntlet II is a direct sequel to the legendary maze-based fantasy themed shoot-em-up, released a year earlier. Atari chose not to tinker with the core game-play mechanic to any great degree, opting instead to enhance the already excellent multi-player action that had created such a stir upon the original game's release.
+
+As with its prequel, up to four players once again take on the role of either 'Thor the Warrior', 'Thyra the Valkyrie', 'Merlin the Wizard', or 'Questor the Elf' and must play cooperatively as they explore and fight their way through the enemy-packed mazes, collecting potions, food and treasure as they searched for the exit that would lead them to the next dungeon.
+
+Changes to the sequel included the ability for players to play whatever character they wanted, even if that character was already in play. Characters were now colour-coded and players would find themselves taking on the role of 'Blue Elf', 'Green Wizard', etc. New in-game speech was added to allow for the new player definitions.
+
+Other changes included the ability to 'bounce' shots off walls - known as 'Reflective Shots' - providing the correct potion was picked up. As well as new potions, Gauntlet II also featured several new monsters. The most notorious of the new additions was the Fire-breathing Dragon that guards the exit to some dungeons. This powerful creature takes multiple hits to kill and defeating it would see the players rewarded with a permanent potion and a bag of treasure.
+
+Another notable addition was the 'It' monster: any player who was tagged by the creature would suddenly find that all of that level's monsters would ONLY chase the tagged player, completely ignoring the presence of all other players. The only way to remove this curse was to tag another player, thus making them 'it'.
+
+New level elements were also added to further increase variety. These included dungeons with entirely invisible walls, magical walls (which changed into monsters or items when hit), stun tiles (which stunned any player that walked on them) and exits that flashed between functioning and non-functioning.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/gaunt2-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action / Labyrinth / Action</genre>
+		<players>4</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/gaunt2-video.mp4</video>
+	</game>
+	<game id="145730" source="screenscraper.fr">
+		<path>./gauntlet.zip</path>
+		<name>Gauntlet</name>
+		<desc>Gauntlet is a maze-based shoot-em-up for up to four players. Heavily influenced by classic fantasy conventions, players take on the role of either Thor the Warrior, Thyra the Valkyrie, Merlin the Wizard, or Questor the Elf and must play cooperatively as they explore and fight their way through the enemy-packed mazes. Competitive play is encouraged as players must fight for the limited amount of food, treasure, magic potions and power-up items that litter the dungeons. 
+
+Each of Gauntlet's four characters have different strengths and weaknesses: Thyra has the strongest armour, Thor is best at hand-to-hand combat, Questor has the fastest speed and Merlin has the most powerful magic attacks. The object of the game is simply to survive as long as possible while exploring Gauntlet's mazes in search of treasure, food, magic potions and, ultimately, the exit that leads to the next dungeon. 
+
+The potions - shown as blue bottles - that litter the levels offer either improved character abilities (such as 'speed' or 'extra shot power') or can be used as a 'smart bomb', destroying some or all of the on-screen monsters. Potions are also the only way to kill the game's 'Death' character that appears in many of the stages. Magic potions can be kept and used at the player's discretion by pressing 'Magic' button, although each potion can only be used once. 
+
+The first seven mazes are always the same, but from level 8 onwards, players will find themselves on any one of over a hundred different mazes. If players survive for long enough, the mazes will be repeated in a different order. How long a player lasts depends upon the player's 'health' level. Health continually depletes as time progresses and further health is lost by contact with various monsters or their projectiles. Health can be replenished by consuming the food found in the mazes or by inserting more credits. The many treasure chests that litter the levels can be plundered for points, and collecting treasure increases a player's score multiplier when two or more players are playing the game.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/gauntlet-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action / Labyrinth / Action</genre>
+		<players>4</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/gauntlet-video.mp4</video>
+	</game>
+	<game id="41400" source="screenscraper.fr">
+		<path>./gberet.zip</path>
+		<name>Green Beret</name>
+		<desc>Green Beret is a sideways-scrolling action/platform game set during the Cold War, in which a US Special Forces Marine must infiltrate a Russian military base to save four POW's from being executed by firing squad. 
+
+Initially, the soldier is armed with only a combat knife, but by killing the certain enemy troops, players can obtain either a three-shot flamethrower, a four-shot RPG, or a three-pack of hand grenades. 
+
+The Marine can jump or lie down to avoid the enemy bullets, as well as climbing ladders to avoid enemies and projectiles, as well as the flashing land mines that litter the levels. While it's possible to remain still in one area to rack up points, if players take too long to proceed, the game will start sending out tougher enemies and eventually a stealth-like bomber will appear to take out the player. There is also an unseen time limit that will kill off players if they take too long to complete the stage. 
+
+The game has four stages in total: a missile base, a harbour, an air Base and a Siberian POW Camp. At the end of each stage the Marine will face a group of enemies specific to that stage: Stage 1 ends with a truckload of running and jump-kicking soldiers, Stage 2 with a pack of fierce dogs and their handlers, Stage 3 with three Gyro-copters and Stage 4 with a number of multi-shot flamethrower operators. 
+
+The game is completed once the captives have been rescued at the end of the fourth stage, after which the action starts over with an increased level of difficulty.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/gberet-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform / Plateform / Shooter Scrolling</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/gberet-video.mp4</video>
+	</game>
+	<game id="41438" source="screenscraper.fr">
+		<path>./ghostb.zip</path>
+		<name>Real Ghostbusters, The</name>
+		<desc>Adapted from the animated cartoon of the same name. Up to three players, each controlling a Ghostbuster, must run around a top-down universal scrolling terrain, shoot creatures and then try to suck up ghosts with their plasma guns. Players can shoot and then collect various power-ups, including a protective Aura, shot and beam boosters, and a &amp;quot;Green Ghost&amp;quot; Slimer shield satellite. Has interesting screen transition effects and a well-orchestrated version of the movie's popular theme song.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/ghostb-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Activision</publisher>
+		<genre>Shooter / Shooter / Run and Shoot</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/ghostb-video.mp4</video>
+	</game>
+	<game id="41441" source="screenscraper.fr">
+		<path>./ghouls.zip</path>
+		<name>Ghouls'n Ghosts</name>
+		<desc>3 years after the events of the last game monsters and demons have returned and a beam of light struck through Princess Prin Prin taking her soul. Now its up to the knight Arthur to defeat the evil Lucifer and restore the souls of Prin Prin and the people.
+
+The gameplay for Ghouls 'n Ghosts is similar to that of Ghosts 'n Goblins. The player controls the knight Arthur, who must advance through a series of eerie levels and defeat a number of undead and demonic creatures in his quest to restore all the people killed by Lucifer (Loki in the English-language Mega Drive and Master System versions), including his beloved Princess Prin Prin, back to life. Along the way, Arthur can pick up a variety of weapons and armor to help him in his quest. While the core gameplay remains the same as its predecessor, the game now allows Arthur to fire directly upward and directly downward while in mid air.
+
+By jumping in certain spots, players can cause a treasure chest to erupt from the ground. By firing his weapon at the chest, players may uncover new weapons, gold armor or an evil magician that changes Arthur into an elderly man or a helpless duck. The gold armor allows players to charge up the weapon to release a powerful magical attack. Each weapon has its own special attack, with the exception of the special weapon.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/ghouls-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Plateform / Fighter Scrolling / Platform</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/ghouls-video.mp4</video>
+	</game>
+	<game id="149437" source="screenscraper.fr">
+		<path>./gng.zip</path>
+		<name>Ghosts'n Goblins</name>
+		<desc>Ghosts 'n Goblins is a platform game where the player controls a knight, named Sir Arthur, who must defeat zombies, ogres, demons, cyclops, dragons and other monsters in order to rescue Princess Prin Prin, who has been kidnapped by Satan, king of Demon World. Along the way the player can pick up new weapons, bonuses and extra suits of armor that can help in this task.
+
+The player can only be hit twice before losing a life. If the player loses a life, they are returned to the start of the level, or the halfway point if they have managed to get that far. Furthermore, each life can only last a certain length of time. After defeating the final boss, the player must then replay the entire game on a higher difficulty level to reach the genuine final battle.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/gng-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/gng-video.mp4</video>
+	</game>
+	<game id="41484" source="screenscraper.fr">
+		<path>./goldnaxe.zip</path>
+		<name>Golden Axe</name>
+		<desc>Golden Axe is a sideways scrolling beat-em-up set in a traditional fantasy world, in which up to three warriors take up arms to rescue the kidnapped King and his Queen from the evil Death Adder.
+
+The game's three different playable characters are an Amazonian warrior named Tyris Flare, a Barbarian hero named Ax Battler, and a Viking dwarf named Gilius Thunderhead. Each character has a special attack move that is activated by pressing both JUMP and ATTACK at the same time. Also, double-tapping the joystick right or left will make the character charge and smash into opponents.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/goldnaxe-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight / Fight / 2.5D / Action</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/goldnaxe-video.mp4</video>
+	</game>
+	<game id="41589" source="screenscraper.fr">
+		<path>./gunforce.zip</path>
+		<name>Gunforce - Battle Fire Engulfed Terror Island</name>
+		<desc>GunForce is Irem's answer to Contra, and possesses the coolest subtitle of any video game ever: Battle Fire Engulfed Terror Island.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/gunforce-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer />
+		<publisher>Irem</publisher>
+		<genre>Platform / Plateform / Shooter Scrolling</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/gunforce-video.mp4</video>
+	</game>
+	<game id="41596" source="screenscraper.fr">
+		<path>./gunsmoke.zip</path>
+		<name>Gun.smoke</name>
+		<desc>Gun.Smoke is a vertically-scrolling shoot-em-up set in the Wild West, in which the player takes the role of a Billy; a young Sheriff charged with hunting down and killing a number of infamous 'Wanted' outlaws.
+
+Each level is packed with gun-toting bandits and the Sheriff must shoot his way through the stage, before finally taking on the wanted outlaw 'boss' character at the end. Each outlaw wields a special weapon unique to them, such as a Winchester rifle, knives, darts or boomerangs.
+
+Shooting the barrels that litter the levels reveals power-ups such as boots (for extra speed), rifles (for increased range) and bullets (for rapid fire). The game's 3 directional fire buttons (for firing left, right or ahead) can be combined (pressed Simultaneously) to create a total of 8 different firing directions.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/gunsmoke-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter / Shooter / Run and Shoot</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/gunsmoke-video.mp4</video>
+	</game>
+	<game id="41765" source="screenscraper.fr">
+		<path>./hyperspt.zip</path>
+		<name>Hyper Sports</name>
+		<desc>Hyper Sports is a multi-event sports game and is the sequel to 1983's seminal &amp;quot;Track and Field&amp;quot;. As with &amp;quot;Track and Field&amp;quot;, the game supports up to four players and is controlled by two RUN buttons (renamed GO for this sequel) and one action - or UP - button. 
+
+Tap GO and player will accelerate, shoot or lift. Push UP and player will jump or shoot. The game offers seven different Olympic-based events, and players must achieve qualification in each event in order to progress to the next. Game is over if you fail to qualify in an event.
+
+</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/hyperspt-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Sports / Sports / Running trails</genre>
+		<players>4</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/hyperspt-video.mp4</video>
+	</game>
+	<game id="145321" source="screenscraper.fr">
+		<path>./invaders.zip</path>
+		<name>Space Invaders / Space Invaders M</name>
+		<desc>The Space Invaders phenomenon stunned many conservative adults of the time who were convinced that video-games soured the minds of their youngsters. Residents of Mesquite, Texas, pushed the issue all the way to the Supreme Court in their efforts to ban the illicit machines from their Bible-belt community. A number of reported incidents of juvenile crime began to surface shortly after the game's release, adding to its 'controversy'. A girl was caught stealing $5,000 from her parents and gangs of youths were reported to have robbed grocery stores just so they would have money to play the game.
+</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/invaders-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19780101T000000</releasedate>
+		<developer />
+		<publisher />
+		<genre>Shooter / Space Invaders Like / Shooter</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/invaders-video.mp4</video>
+	</game>
+	<game id="41877" source="screenscraper.fr">
+		<path>./jedi.zip</path>
+		<name>Return Of The Jedi</name>
+		<desc>Return of the Jedi is a scrolling shoot-em-up based on the legendary Star Wars trilogy (specifically, the third film, 'Episode VI: Return of the Jedi') and - unlike its vector-based prequel - is rendered in an isometric forced-perspective viewpoint, similar to that pioneered in Sega's 1982 classic, &amp;quot;Zaxxon&amp;quot;. 
+
+The ultimate aim of the game is to reach and destroy the Death Star and escape alive. Success is achieved by surviving an 'attack wave', which consists of four different scenes. Play switches between Endor and space-based scenes, with each one putting the player in control of a different vehicle from the movie. 
+
+The scenes are based on three distinct locations taken from the original movie. They are: The forest moon of Endor, Attack on the Death Star, and Space battle. 
+
+SCENE 1: Speeder Bike chase on Endor as Princess Leia. The goal is to reach the Ewok village alive. 
+SCENE 2: Scout Walker chase on Endor as Chewbacca. The goal is to reach the shield generator. 
+SCENE 3: Millennium Falcon attack on Death Star as Lando. The goal is to reach and destroy the Death Star power reactor. 
+SCENE 4: Millennium Falcon escape from exploding Death Star. The goal is to escape the exploding Death Star. 
+SPLIT SCENE: Play switches between scenes 2 and 3. 
+
+The scenes loop for as long as the player has lives remaining; although to increase variety, the order in which they appear is randomised as play progresses. Each successive wave increases in difficulty.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/jedi-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter / Shooter / Vehicle, Diagonal</genre>
+		<players>1</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/jedi-video.mp4</video>
+	</game>
+	<game id="41919" source="screenscraper.fr">
+		<path>./jrpacman.zip</path>
+		<name>Jr. Pac-man</name>
+		<desc>One of many sequels to the legendary &amp;quot;Pac-Man&amp;quot;, Jr. Pac-Man features the character of Pac-Man's son. For the first time in the series' history, side-scrolling mazes were introduced, with each maze being two screens wide. 
+
+This time, the mazes have no exit tunnels through which players can make an escape. The bonus items that appear move around the maze and are now something of a mixed blessing, as not only will they destroy any Power Pills they come across, but they will also turn any normal dots they pass over into large dots that slow the player's movements considerably, but are worth more points than normal dots if eaten by the player. Any mutated dots in the maze will disappear if the player loses a life. 
+
+The Pac character is once again pursued by four ghosts (Blinky, Pinky, Inky and Tim) in his quest to eat all of the dots in each maze. And, as before, numerous Power Pills litter the mazes that, when eaten, allow Jr. to eat the pursuing ghosts. 
+
+As with previous &amp;quot;Pac-Man&amp;quot; games, intermissions are featured between certain levels. Jr. Pac-Man's intermissions are episodic in nature, like those found in &amp;quot;Ms. Pac-Man&amp;quot;. Jr. Pac-Man's story tells of the blossoming love between Jr. Pac-Man and a small ghost named Yum-Yum. 
+
+</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/jrpacman-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>Bally Midway</publisher>
+		<genre>Action / Labyrinth / Action</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/jrpacman-video.mp4</video>
+	</game>
+	<game id="42044" source="screenscraper.fr">
+		<path>./konamigt.zip</path>
+		<name>Konami Gt</name>
+		<desc>Drive your car through a series of courses, avoiding other cars and motorcycles. Drive through fuel bubbles to gain more fuel. Run out of fuel and it's game over.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/konamigt-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Race, Driving / Race 1st Pers. view</genre>
+		<players>1</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/konamigt-video.mp4</video>
+	</game>
+	<game id="42075" source="screenscraper.fr">
+		<path>./kungfum.zip</path>
+		<name>Kung-fu Master</name>
+		<desc>Kung-Fu Master, known in Japan as Spartan X (ã‚¹ãƒ‘ãƒ«ã‚¿ãƒ³X?), is a 1984 beat 'em up arcade game developed and published in Japan by Irem. It was later published in North America by Data East. The Japanese version was based on the Jackie Chan movie Wheels on Meals, known as Spartan X in Japan, and credited &amp;quot;Paragon Films Ltd., Towa Promotion&amp;quot;, who produced the film upon which it was based. The game is considered by many to be the first beat 'em up video game, and contains elements of Bruce Lee's Game of Death.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/kungfum-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<genre>Fight / Fight / 2D</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/kungfum-video.mp4</video>
+	</game>
+	<game id="42193" source="screenscraper.fr">
+		<path>./luckywld.zip</path>
+		<name>Lucky And Wild</name>
+		<desc>Lucky &amp; Wild is a hilarious 'drive 'n shoot' game starring two buddy cops on a mission to bring down a mafia gang. Player 1 (Lucky) both drives the car and fires a gun, Player 2 (Wild) uses just a gun. While playing, both cops trade funny banter and dialogue, and even make funny faces in the rearview mirror.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/luckywld-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer />
+		<publisher>Namco</publisher>
+		<genre>Race, Driving / Race 1st Pers. view</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/luckywld-video.mp4</video>
+	</game>
+	<game id="60558" source="screenscraper.fr">
+		<path>./mspacman.zip</path>
+		<name>Ms. Pac-man</name>
+		<desc>In this, the first proper sequel to Namco's legendary pill eating maze game, players must once again run around a number of mazes, eating all of the pills that are scattered throughout. The ever-present ghosts (Blinky, Pinky, Inky and Sue) return to hamper the player's progress. The infamous 'Power Pills' are also present and correct, with four appearing in each maze. 
+
+Namco introduced a number of changes and enhancements over the original game. The first difference is in the main character. For the first time in video-game history, the game's lead character was female. Ms. Pac-Man is almost identical to the original character with two main differences; she wears a bow in her 'hair', and is also wearing lipstick. 
+
+Another change from the original is that the bonus fruit items are no longer static but now move randomly around the mazes. 
+
+Ms Pac-Man features four different maze layouts, which alternate every two to four rounds: 
+</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/mspacman-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Coleco Industries, Inc.</developer>
+		<publisher>Coleco Industries, Inc.</publisher>
+		<genre>Action / Action / Labyrinth</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/mspacman-video.mp4</video>
+	</game>
+	<game id="79058" source="screenscraper.fr">
+		<path>./nbajam.zip</path>
+		<name>Nba Jam</name>
+		<desc>Two-on-two basketball with digitized images of real NBA players, monster dunks and no referee - it's a blowout!</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/nbajam-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Sports / Sports / Basketball</genre>
+		<players>4</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/nbajam-video.mp4</video>
+	</game>
+	<game id="150955" source="screenscraper.fr">
+		<path>./nemesis.zip</path>
+		<name>Nemesis</name>
+		<desc>Gradius / Nemesis is a horizontally-scrolling shoot-em-up in which the player pilots a spacecraft known as the Vic Viper as they search through unexplored galaxies looking for a lost armada. These new galaxies are teaming with alien life set upon destroying the Viper. 
+
+The game features a power-up system based on a selection meter at the bottom of the screen called a 'power meter', this allows players to 'buy' weapons and upgrades. To achieve this, players must destroy special individual enemies - usually red in colour - or enemy waves that then drop orange capsules. These capsules can be collected and used to upgrade the Viper's weapons. Each collected capsule advances the power meter by one step. Players can activate the highlighted item at any point, after which the power meter resets.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/nemesis-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em up / Horizontal / Shoot'em Up</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/nemesis-video.mp4</video>
+	</game>
+	<game id="57901" source="screenscraper.fr">
+		<path>./offroad.zip</path>
+		<name>Ironman Ivan Stewart's Super Off-road</name>
+		<desc>In his never ending quest for adventure and excitement, man invented off-road racing. These races were then brought before the masses by converting huge sports stadiums into dirt and mud obstacle courses in which off-road 'Ironmen' battled for top honors. 
+
+Now the Leland Corporation brings this fast moving, hard driving sport to the video game arena. 
+
+Ironman Ivan Stewart's Super Off-Road is stadium off-road racing at it's best. One to three players are asked to test their dirt track skills against the best dirt truck driver in the world. 
+
+Contestants compete on eight different tracks with a total of 16 configurations and these courses are packed with enough jumps, bumps, hills, and holes to challenge even the most skillful driver. 
+
+Winning drivers earn 'cash' prizes, and use this 'cash' to 'buff out' their machines. At the end of each race, players take their trucks to the 'Speed Shop' to buy better shocks, tires, engines, and higher top speed. They can also buy nitro packs to help them blast over the jumps and through the mud. 
+
+The 'Convert-a-Credit' feature allows drivers to add to their winnings by using credits as 'cash'. Each additional quarter, when converted, becomes $200,000 in game 'cash' and this additional 'cash' may be used for purchases in the 'Speed Shop'.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/offroad-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer />
+		<publisher>Leland Corp.</publisher>
+		<genre>Race, Driving / Race, Driving / Race</genre>
+		<players>3</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/offroad-video.mp4</video>
+	</game>
+	<game id="79093" source="screenscraper.fr">
+		<path>./opwolf3.zip</path>
+		<name>Operation Wolf 3</name>
+		<desc>Operation Wolf 3 is a light-gun controlled shoot-em-up in which a terrorist organization known as 'SKULL' has taken over an island and are armed with nuclear missiles. Two agents, codenamed 'Hornet' and 'Queen Bee' (players one and two respectively) are dispatched by the United Nations taskforce, 'Federation for Freedom', and must take down the SKULL organisation and disarm the nuclear missiles.
+
+Unlike the limited ammo found in the first game in the series, players now have unlimited ammo. As long as the trigger is squeezed, weapons will fire on full automatic. Once the ammo meter is depleted, the rate of fire decreases sharply. When the trigger is released, the meter instantly refills. Players can also carry a limited supply of grenades, although only three bombs can be carried at any one time, as opposed to the nine of the first game. As players progress through the stages, various power-ups can be found, such as stronger weapons and extra grenades. </desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/opwolf3-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Shooter / Lightgun Shooter</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/opwolf3-video.mp4</video>
+	</game>
+	<game id="63306" source="screenscraper.fr">
+		<path>./outrun.zip</path>
+		<name>Out Run</name>
+		<desc>Out Run is a ground-breaking racing game in which the player drives a red Ferrari Testarossa through a number of colourful European locations, trying to reach each end-of-level checkpoint before the tight time limit expires.
+
+Each of the game's stages is packed with civilian traffic that must be carefully avoided, as players try to negotiate the game's twisting, hilly roads. 
+
+At the end of every stage players are presented with a fork in the road, allowing them to chose which route they wish to take next. This was not the first time this feature had appeared (Tatsumi's 1983 racer, TX-1, was the first to introduce forked roads).
+
+As well as being able to choose routes, players could also - via the game's &amp;quot;in-car radio&amp;quot; - choose one of three different catchy tunes to listen to while driving. The songs are 'Magical Sound Shower', 'Passing Breeze' and 'Splash Wave'.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/outrun-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<players>1</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/outrun-video.mp4</video>
+	</game>
+	<game id="79113" source="screenscraper.fr">
+		<path>./outzone.zip</path>
+		<name>Out Zone</name>
+		<desc>A vertically scrolling run and gun game, in which the player controls a soldier who must fight his way through 7 increasingly difficult levels. At the end of each level a boss must be defeated before the player can progress any further.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/outzone-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Toaplan</developer>
+		<publisher>Toaplan</publisher>
+		<genre>Shooter / Shooter / Run and Shoot</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/outzone-video.mp4</video>
+	</game>
+	<game id="79092" source="screenscraper.fr">
+		<path>./opwolf.zip</path>
+		<name>Operation Wolf</name>
+		<desc>Operation Wolf is a light-gun controlled shoot-em-up in which the player takes on the role of Special Forces operative 'Roy Adams' and must infiltrate and capture six heavily fortified bases, with the ultimate aim of rescuing five trapped hostages and guiding them to safety.
+
+In order to complete each stage, the player must shoot as many enemy soldiers and vehicles as that stage requires. Enemy soldiers can throw hand grenades and knives, while enemy vehicles can shoot missiles and launch rockets. The player's ammunition and grenades are limited, but can be stocked up by shooting barrels and crates. Occasionally a high-powered machine gun power-up appears, allowing the player's gun to have unlimited ammo and an increased rate of fire for 10 seconds. Completing the 'Powder Magazine' stage fills the player's ammunition and grenade supplies to maximum.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/opwolf-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Shooter / Lightgun Shooter</genre>
+		<players>1</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/opwolf-video.mp4</video>
+	</game>
+	<game id="60859" source="screenscraper.fr">
+		<path>./pacland.zip</path>
+		<name>Pac-land</name>
+		<desc>Pac-Land is a horizontally-scrolling platform game set in the cartoon world of the game's title. A fairy has lost her way and needs Pac-Man to help her get back to her home of Fairyland. Pac-Man, with the fairy safely hidden beneath his hat, must run and jump through the colourful world until he reaches and enters the magical door to Fairyland. Upon being rescued, the fairy gives Pac-Man a pair of magical shoes for his trip back home. These enable him to jump wherever he wants, without the need for a platform to jump from. This effectively means Pac-Man can 'sky-jump' back home if he so wishes.
+
+Directional buttons make Pac-Man walk left and right and it's possible to make him run by tapping the desired directional button twice. Pac-Man is pursued by his ever-present enemies in the form of five ghosts - Pinky, Inky, Blinky, Clyde and Sue. Pac-Man must avoid the ghosts and other deadly objects that populate the levels. As with previous games in the series, a small number of 'Powerpills' appear. Eating a Powerpill makes Pac-Man temporarily invincible and turns the ghosts purple and vulnerable to being eaten. On some stages, Pac-Man must use a springboard to jump over large ponds by leaping from the springboard and rapidly moving left and right while in the air.
+
+The game's stages are called 'trips', with players able to start on any one of the first five. Each trip made up of four rounds (three rounds to reach Fairyland and one round to return home) with a short interval between each one. The objective in all trips is to get the fairy safely back to Fairyland then return home to Pac-Man's family. The majority of the trip involves moving from left to right, avoiding various obstacles such as the enemy ghosts, water spurts and quicksand traps. The journey home, however, scrolls right to left.
+
+Each stage must be completed within a set time limit and if the player runs out of time before finishing a round, Sue (the purple ghost) will speed up considerably and kill Pac-Man. At the end of each round, players are awarded bonus points based on how much of the time limit remains. On each stage, cherries and other items can be collected for extra points. There are a total of 8 different trips in the game, totalling 32 levels. After the 8th trip, the 9th trip is a repeat of the 5th trip, with level 33 effectively being level 17, with an increased difficulty level.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/pacland-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Platform / Plateform / Run Jump Scrolling</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/pacland-video.mp4</video>
+	</game>
+	<game id="60602" source="screenscraper.fr">
+		<path>./pacman.zip</path>
+		<name>Pac-man</name>
+		<desc>Export release by Bally/Midway for North America. Game developed by Namco and originally known as Puckman in Japan. For more information about the game itself, please see the original Japanese release entry, &amp;quot;Puckman [Upright model]&amp;quot;.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/pacman-image.jpg</image>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Coleco Industries, Inc.</developer>
+		<publisher>Coleco Industries, Inc.</publisher>
+		<genre>Reflection</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/pacman-video.mp4</video>
+	</game>
+	<game id="60860" source="screenscraper.fr">
+		<path>./pacmania.zip</path>
+		<name>Pac-mania</name>
+		<desc>Pac-Mania is a 1- or 2-player game in which the player maneuvers Pac-Man through a world of 3-D mazes. He's back in action... but with a new twist, BOUNCE power! Ready for a new generation of Pac-Man players, he can't wait </desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/pacmania-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Action / Labyrinth / Action</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/pacmania-video.mp4</video>
+	</game>
+	<game id="150069" source="screenscraper.fr">
+		<path>./pang.zip</path>
+		<name>Pang</name>
+		<desc>One or two players control safari-suited characters armed with harpoon guns, who must destroy the numerous different-sized balloons that litter each stage. When hit by a harpoon, the balloons break down into smaller fragments.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/pang-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Mitchell</developer>
+		<publisher>Mitchell</publisher>
+		<genre>Shooter / Shooter / 3rd person</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/pang-video.mp4</video>
+	</game>
+	<game id="149444" source="screenscraper.fr">
+		<path>./pengo.zip</path>
+		<name>Pengo</name>
+		<desc>Pengo is an action game set in an overhead maze constructed of ice blocks. The player controls Pengo, a red penguin that lives in the Antarctic and fights the blob-like Sno-Bees. The objective of the game is for Pengo to survive a series of rounds by eliminating all Sno-Bees, while amassing bonuses by bringing together the three diamonds dispersed in the maze.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/pengo-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer />
+		<publisher />
+		<genre>Action / Labyrinth / Action</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/pengo-video.mp4</video>
+	</game>
+	<game id="149433" source="screenscraper.fr">
+		<path>./phoenix.zip</path>
+		<name>Phoenix</name>
+		<desc>Phoenix is a classic vertical shoot-em-up in the mould of Taito's &amp;quot;Space Invaders&amp;quot; and Namco's &amp;quot;Galaxian&amp;quot;, but takes the concept further with the introduction of progressive stages of play (instead of simply repeating a single playfield over and over with an increasing difficulty level).
+
+According to Centuri's Joel Hochberg, the game was licensed from &amp;quot;a smaller Japanese developer.&amp;quot; Amstar Electronics licensed the game to Centuri for manufacture in the United States. Taito released the game in Japan.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/phoenix-image.jpg</image>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Amstar</developer>
+		<publisher>Centuri</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/phoenix-video.mp4</video>
+	</game>
+	<game id="57908" source="screenscraper.fr">
+		<path>./pingpong.zip</path>
+		<name>Konami's Ping-pong</name>
+		<desc>Konami's Ping Pong is a playable if simplistic Table Tennis simulation for one or two players. Ping Pong offers three different types of shot; Top spin, Back Spin and Smash. The actual gameplay centers on shot timing and shot choice, with the players' bats moving automatically to track the movement of the ball.
+
+In the single player mode, the player can opt to play the game on any one of five different skill levels.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/pingpong-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer />
+		<publisher>Konami</publisher>
+		<genre>Sports / Sports / Table tennis</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/pingpong-video.mp4</video>
+	</game>
+	<game id="79269" source="screenscraper.fr">
+		<path>./pipedrm.zip</path>
+		<name>Pipe Dream</name>
+		<desc>Put your advanced plumbing skills to the maximum test and connect the points on the board in the least moves possible! Use the pieces of pipe supplied to plug the gaps and fix the leaks as quickly as possible. You're against the clock and at the mercy of pipe supply so think fast and lay pipe quickly!</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/pipedrm-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Video System</developer>
+		<publisher>Video System</publisher>
+		<genre>Puzzle-Game / Puzzle-Game / Glide</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/pipedrm-video.mp4</video>
+	</game>
+	<game id="42487" source="screenscraper.fr">
+		<path>./pow.zip</path>
+		<name>P.o.w. - Prisoners Of War</name>
+		<desc>Prisoners of War is a horizontally-scrolling run 'n' gun platform game for one or two players in which Special Forces soldiers escape from a POW camp and must fight their way through enemy territory to reach the extraction point and rescue. 
+
+The escaping POWs fight primarily using hand-to-hand combat, but limited-use knives and sub-machine guns can be retrieved from fallen enemy soldiers. The game consists of three action buttons for punching, kicking and jumping. There are also three special attacks performed by pressing two buttons simultaneously: a jump kick (jump, then kick), a back punch (jump and punch simultaneously) and a headbutt (punch and kick simultaneously).
+
+The controls change when wielding a weapon; the knife is thrown by pressing the punch button, but can preserved by using kicks. When wielding the machine gun, players can fire it by pressing the kick button, or can conserve its ammo by pressing the punch button to gun-whip enemies from close-range.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/pow-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight / Fight / 2.5D</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/pow-video.mp4</video>
+	</game>
+	<game id="42522" source="screenscraper.fr">
+		<path>./pspikes.zip</path>
+		<name>Power Spikes</name>
+		<desc>It's the successor to Power Spikes. Released in 1994, this game features a new league of robotic players.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/pspikes-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Video System</developer>
+		<publisher>Video System</publisher>
+		<genre>Sports / Sports / Volleyball</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/pspikes-video.mp4</video>
+	</game>
+	<game id="37614" source="screenscraper.fr">
+		<path>./pbobble.zip</path>
+		<name>Puzzle Bobble / Bust-a-move</name>
+		<desc>Puzzle Bobble (known as Bust-A-Move outside of Japan) is a spin-off of the Bubble Bobble series, featuring themes from the original game (such as enemies trapped in bubbles by the cutesy dinosaur duo Bub and Bob that must be popped). Players attempt to clear a board of colored bubbles by firing other bubbles at an angle and matching multiple bubbles of the same color. Its characteristically cute Japanese animation and music, along with its play mechanics and level designs, made it successful as an arcade title and spawned several sequels and ports to home gaming systems.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/pbobble-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Puzzle-Game / Puzzle-Game / Throw</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/pbobble-video.mp4</video>
+	</game>
+	<game id="172110" source="screenscraper.fr">
+		<path>./qbert.zip</path>
+		<name>Q*bert</name>
+		<desc>Q*bert is an isometric platform game with puzzle elements where the player controls the titular protagonist from a third-person perspective. Q*bert starts each game at the top of a pyramid of cubes, and moves by jumping diagonally from cube to cube. Landing on a cube causes it to change color, and changing every cube to the target color allows the player to progress to the next stage.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/qbert-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>D. Gottlieb &amp; Co.</developer>
+		<publisher>D. Gottlieb &amp; Company</publisher>
+		<genre>Platform / Plateform / Run Jump</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/qbert-video.mp4</video>
+	</game>
+	<game id="63671" source="screenscraper.fr">
+		<path>./rainbow.zip</path>
+		<name>Rainbow</name>
+		<desc />
+		<image>~/.emulationstation/downloaded_images/mame-libretro/rainbow-image.jpg</image>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre>Various / Electro- Mechanical / Casino / Slot machine / Various / Casino</genre>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/rainbow-video.mp4</video>
+	</game>
+	<game id="79424" source="screenscraper.fr">
+		<path>./rallybik.zip</path>
+		<name>Rally Bike / Dash Yarou</name>
+		<desc>Rally Bike - known in Japan as Dash Yarou (&amp;quot;Dash Rascal&amp;quot;), is a 1988 racing arcade game developed by Toaplan and published by Taito.
+Rally Bike is a bird's eye viewed motorcycle road racing game, where the player controls a motorcycle and must cross the finish line before an established number of competitor bikes. Fuel is a major obstacle, as running out of it results in game over. Any accident will cause great reduction of fuel, and stopping to refuel will cause competitor bikes to take advantage. Competitors never run out of fuel. Game includes 6 stages, each placed in an American city (from San Francisco to New York) and 2 bonus stages. Difficulty increases progressively and new obstacles like cars, trucks, rivers and ramps come as stages advance.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/rallybik-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Toaplan</developer>
+		<publisher>Toaplan</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/rallybik-video.mp4</video>
+	</game>
+	<game id="42690" source="screenscraper.fr">
+		<path>./rallyx.zip</path>
+		<name>Rally X</name>
+		<desc>In Rally-X, the player drives a car around a maze picking up all of the yellow flags, of which there are ten, before the car's fuel runs out. The game-play has a similar feel to another Namco legend, &amp;quot;Pac-Man&amp;quot;; although in Rally-X, the mazes are much larger and, with each maze having only ten flags to collect, is more sparsely populated than Namco's pill-eating legend.
+
+In-game opponents consist of red enemy cars that try to ram into and destroy the player's car, a problem compounded by the fact that enemy cars are faster than the player's. A smoke screen can be activated which trails behind the player's car and causes any pursuing enemies to crash. Each maze also has rock formations which, if crashed into, will result in the loss of a player car. A radar display to the right hand side of the playing area shows the positions of both the flags, and the enemy vehicles.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/rallyx-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Action / Labyrinth / Race, Driving / Action</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/rallyx-video.mp4</video>
+	</game>
+	<game id="42242" source="screenscraper.fr">
+		<path>./rampage.zip</path>
+		<name>Rampage</name>
+		<desc>Rampage is a classic B-movie inspired smash-em-up in which up to three players take on the roles of three mutated monsters - George the giant ape, Lizzie the giant lizard and Ralph the giant wolf - who move from city to city destroying skyscrapers and vehicles, while eating or killing any people that get in their way. 
+
+The monsters' health can be damaged in a number of ways: by being shot by National Guardsmen, by being hit by another monster, by falling from a building, by being hit by police cars or tanks, by going underwater, by being struck by lightning, or by eating something bad, such as dynamite. Health is replenished by eating food found in damaged buildings. 
+
+If the players' health gauge diminishes completely, the monsters will revert back to their original human form and walk sideways off the screen. Rampage has a &amp;quot;buy back in&amp;quot; option, however; if players chose to continue the game before the human figure leaves the play area, the game will continue from that stage. 
+
+Rampage is set over the course of 128 days in cities across North America. The game starts in Peoria, Illinois and ends in Plano, Illinois. In Plano, players receive a mega vitamin bonus which heals all the monsters and provides a large point bonus. After this, the cycle of cities repeats five times. After 768 days, the game resets back to Day One. 
+
+Examples of bonuses and hazards found inside damaged buildings: 
+Food: Milk, Turkey, Hot Toast, Fruit 
+Bonus: Flower Pot, TV Set, Money Bag 
+Hazard: Cactus, Poison, Toaster 
+
+Examples of bonuses and hazards found outside damaged buildings: 
+Bonus: Auto (or Truck), Commuter Train, Person in Manhole 
+Hazard: National Guard Tank, Police Car, Storm Cloud 
+
+Further bonus points can be earned by grabbing a fleeing 'Townie' from a building window. This has two benefits: 1) While holding the Townie, all swat team members disappear from the building windows and 2) accumulating points are scored during the time the Townie is held.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/rampage-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>Barcrest / Red Gaming</publisher>
+		<genre>Platform / Fight / Adventure</genre>
+		<players>3</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/rampage-video.mp4</video>
+	</game>
+	<game id="42791" source="screenscraper.fr">
+		<path>./robocop.zip</path>
+		<name>Robocop</name>
+		<desc>RoboCop - The Future of Law Enforcement is a single player, side-scrolling platform shoot-em-up based on the 1987 movie of the same name. The game's story mirrors that of the film, with former cop Murphy, now a half-human cyborg called 'RoboCop', on a quest to bring down the evil OCP corporation.
+
+RoboCop features nine levels of action, with two of the game's nine stages being into-the-screen target ranges, in which players can try to accrue bonus points and earn extra health. Wooden crates occasionally bar RoboCop's progress, but these can be punched to remove them. Marked crates can be smashed to reveal one of three Weapon power-ups; Three-way Gun, Dual Laser and the incredibly powerful Cobra Gun.
+
+The film's incidental music plays throughout the game and RoboCop's speech is sampled directly from the original film.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/robocop-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>20090101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Platform / Plateform / Shooter Scrolling</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/robocop-video.mp4</video>
+	</game>
+	<game id="42841" source="screenscraper.fr">
+		<path>./rtype.zip</path>
+		<name>R-type</name>
+		<desc>RType is a sideways-scrolling shoot-em-up in which the evil Bydo Empire rules the galaxy through fear and intimidation and it's up to the player - piloting their heavily-armed R-9 space ship - to battle through eight tough levels to the heart of the Bydo stronghold and defeat them.
+
+The game's revolutionary weapons system is its real stroke of genius. The first of numerous innovations that R?Type bought to the genre is the beam weapon: when the fire button is held down, a 'power meter' starts to charge up; once the meter is full, releasing the fire button unleashes a very powerful plasma burst capable of inflicting much greater damage to enemy ships or even destroying numerous enemies simultaneously. The trade-off is that charging the weapon takes up valuable seconds, giving the Bydo ships time to attack.
+
+The most significant addition to R-type's arsenal is the now-legendary 'Force Pod'. This takes the form of an invincible, detachable laser-firing pod that can be attached to either the front or rear of the player's ship, or can be detached completely, after which the pod sits some distance either ahead or behind the player's ship, tracking its movements and providing additional fire power. When attached to the R9 ship, the pod acts as a shield. This forms a crucial part of R?Type's gameplay and has to be fully utilised to navigate certain sections of the game, such as the huge mothership that comprises the game's 3rd stage.
+
+R?Type's levels are designed to make full use of its unique weapons system, making for very linear and demanding gameplay in which losing or picking up the wrong weapon at the wrong time often leads to an instant death. Its intelligent, precise and demanding level design, gave the world its first truly 'strategic' shoot-em-up.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/rtype-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<genre>Shoot'em up / Horizontal / Shoot'em Up</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/rtype-video.mp4</video>
+	</game>
+	<game id="42873" source="screenscraper.fr">
+		<path>./salmndr2.zip</path>
+		<name>Salamander 2</name>
+		<desc>A one or two player shoot-em-up released ten years after the game it sequels, Salamander 2 remains faithful to the superb 1986 original; retaining both the organic look and feel of the graphics, as well as the horizontal and vertically scrolling levels. While the game doesn't break any new ground gameplay-wise, and is little more than a retread of (and tribute to) the original game, what it does it does very well; and the graphics in particular are nothing short of stunning.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/salmndr2-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em up / Horizontal / Shoot'em Up</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/salmndr2-video.mp4</video>
+	</game>
+	<game id="150938" source="screenscraper.fr">
+		<path>./shangonb.zip</path>
+		<name>Super Hang-on</name>
+		<desc>Super Hang-On is a checkpoint-based racing game and is the sequel to the acclaimed &amp;quot;Hang-On&amp;quot;, released two years earlier. As with the prequel, players take control of a superbike and must race over twisting road-based circuits, avoiding rival bikers and trying to reach the end-of-stage checkpoint before the time limit expires.
+
+For the sequel, Sega introduced the hilly, undulating roads that had been executed so superbly in 1986's &amp;quot;Out Run&amp;quot;. The gameplay was further enhanced with the introduction of the 'turbo' button. Upon reaching the bike's maximum speed of 280kph, players could press and hold the turbo and push the bike up to 324kph - something that was necessary to beat the game's extremely tight time limits. This had to be used carefully, however, as the increase in speed made the bike harder to control and accelerating at the wrong time would invariably see a head-on collision with either rival bikers or the road-side objects that litter the stages.
+
+Players could chose to race on any one of four courses: Africa, Asia, America and Europe. Africa is the easiest and shortest of the four, with each subsequent course becoming both more demanding - with tighter bends and more aggressive rival racers - and having a greater number of stages to have to beat. Africa, for example, is made up of only six stages, while the hardest course, Europe, has eighteen stages.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/shangonb-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>bootleg</developer>
+		<publisher>Sega</publisher>
+		<genre>Motorcycle Race, 3rd Pers. / Race, Driving</genre>
+		<players>1</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/shangonb-video.mp4</video>
+	</game>
+	<game id="43046" source="screenscraper.fr">
+		<path>./shinobi.zip</path>
+		<name>Shinobi</name>
+		<desc>Shinobi is a scrolling platform beat-em-up in which the player takes on the role of Joe Musashi, a Shinobi Ninja, who must fight his way through 5 tough missions - each made up of between 3 to 5 stages - in his quest to rescue the kidnapped Ninja children of the Iga clan; now hostages of an evil Ninja syndicate called &amp;quot;Zeed&amp;quot;. To complete a mission, the player must rescue all of the kidnapped children on each level, with the number of hostages remaining displayed on a meter in the bottom left corner of the screen.
+
+Shinobi was a huge success for Sega, and deservedly so. Its perfectly realized blend of platform and fighting action and is as fine an exponent of the 'easy to get into, difficult to master' gameplay ethic as video games have seen.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/shinobi-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>20080101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Plateform / Fighter Scrolling / Platform</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/shinobi-video.mp4</video>
+	</game>
+	<game id="149954" source="screenscraper.fr">
+		<path>./simpsons.zip</path>
+		<name>Simpsons, The</name>
+		<desc>A jewel heist gone wrong sees Mr Burns's sidekick, Smithers, kidnapping Maggie and making his escape. Between one and four players take on the role of either Homer, Marge, Lisa, or Bart in this colorful, horizontally-scrolling beat-em-up from Konami. Each Simpsons character possesses an attacking move specific to them; Marge is armed with a vacuum cleaner, Lisa has a skipping rope, Bart has his skateboard, and Homer fights with his fists. The players must battle their way through a variety of Simpsons-themed levels - such as Springfield and Krustyland - fighting goons, thugs, zombies, drunks, firemen, and several Simpsons regulars. Many Simpsons characters that don't appear as enemies have 'cameo' scenes in the game (Otto working at a burgerstand in Krustyland, for example). The archetypal 'boss' character awaits the players at the end of every stage. The game ends with a final showdown with the evil Mr. Burns in his luxurious mansion.
+
+The Simpsons was designed to Konami's typically-high production standards and was, like the 'Ninja Turtles' games that appeared a couple of years' earlier, very faithful to its source material. The colorful, smoothly-animated sprites captured the spirit of the legendary cartoon superbly, and the game's many humorous touches were timed to perfection.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/simpsons-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19910403T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Fight / 2.5D / Fight</genre>
+		<players>4</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/simpsons-video.mp4</video>
+	</game>
+	<game id="43162" source="screenscraper.fr">
+		<path>./snowbros.zip</path>
+		<name>Snow Bros. - Nick And Tom</name>
+		<desc>One or two players take on the roles of snowmen Nick and Tom as they battle a variety of monsters over fifty platform-based, single screen levels. 
+
+The snowmen can throw snowballs at the enemies with the aim of encasing them completely in snow. The encased enemies can then be kicked in order to destroy them and this is achieved by standing next to the snowball and pressing the &amp;quot;kick out&amp;quot; button. This sends the giant snowball flying around the screen, killing any enemies that lay in its path. 
+
+If players take too much time to complete a stage, an evil pumpkin head will appear and try to kill them. The pumpkin is invincible but can be stunned with snowballs. After a short time the evil pumpkin will spawn ghosts that can travel freely around the stage as they seek out Nick and Tom. These ghosts can't be killed or stunned, so the player's only hope is to avoid them while eliminating the remaining standard enemies, to move on to the next screen as soon as possible.
+
+When players defeat an enemy, it may drop a coloured potion bottle. These can be picked up and act as power-ups:
+Yellow = Long shot
+Red = Speed up
+Blue = Bigger snowballs (encases monsters quicker)
+Green = Inflates the players like a balloon and lets them fly around the screen, killing any monsters they touch.
+
+Every 10th level features a battle with a large end-of-level boss.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/snowbros-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer />
+		<publisher>Toaplan</publisher>
+		<genre>Platform / Plateform / Run Jump</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/snowbros-video.mp4</video>
+	</game>
+	<game id="43470" source="screenscraper.fr">
+		<path>./svolley.zip</path>
+		<name>Super Volleyball</name>
+		<desc />
+		<image>~/.emulationstation/downloaded_images/mame-libretro/svolley-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>V-System Co.</developer>
+		<publisher>V-System Co.</publisher>
+		<genre>Sports / Sports / Volleyball</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/svolley-video.mp4</video>
+	</game>
+	<game id="189695" source="screenscraper.fr">
+		<path>./tetrisbl.zip</path>
+		<name>Tetris (set 4, Japan, System 16a)</name>
+		<desc>Tetris was a very popular game in Japan. Taito partner up with Sega to convert unpopular games like &amp;quot;Master of weapon&amp;quot; or &amp;quot;Rastan saga 2&amp;quot; to Tetris (on the Taito B system). Later, Taito produced Sega's tetris on the Taito H system.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/tetrisbl-image.jpg</image>
+		<releasedate>19881201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Puzzle-Game / Fall / Puzzle-Game</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/tetrisbl-video.mp4</video>
+	</game>
+	<game id="37377" source="screenscraper.fr">
+		<path>./sf2ce.zip</path>
+		<name>Street Fighter 2' - Champion Edition</name>
+		<desc>From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/sf2ce-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Fight / Versus</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/sf2ce-video.mp4</video>
+	</game>
+	<game id="43711" source="screenscraper.fr">
+		<path>./trackfld.zip</path>
+		<name>Track And Field</name>
+		<desc>Track &amp; Field &amp;copy; 1983 Konami.
+
+Track &amp; Field is an athletics-themed action game for up to four players, who compete against each other in six track and field-based disciplines. 
+
+The game controls consist of two run buttons (one for each &amp;#039;leg&amp;#039; of the athlete) and one &amp;#039;Action&amp;#039; button. Players must hit the two run buttons alternately to build up speed and use action button to jump or throw.
+
+In each event, there is a qualifying time or minimum score threshold that the player must achieve to advance to the next event. failing to qualify (in one heat for track events or in three attempts in the other events) will reduce the players&amp;#039; number of lives by one, the game is over once all lives are lost.
+
+Track &amp; Field can accommodate up to four players, who compete in pairs in the running events and individually in the others. If there are fewer than four players, the remaining slots are played by the computer (or player &amp;quot;CPU&amp;quot;). In all multiplayer heats, however, the relative performance of the players has no effect on the game and advancing is based solely on reaching qualifying times and targets.
+
+The six events are:
+
+100M DASH - Run as fast as possible.
+LONG JUMP - Run to the take-off board then choose angle of jump (42 is the optimum angle).
+JAVELIN - Run to the line then choose angle of throw (43 is the optimum angle).
+110M HURDLES - Run and time jumps over the hurdles.
+HAMMER THROW - As the athlete spins faster and faster, time release of hammer and angle of throw (45 is the optimum angle).
+HIGH JUMP - The athlete will run to the bar; just as he reaches it, use Action button to start the jump and hold down the action button to reduce the angle of climb, i.e. you start going straight up at 90 degrees if you tap the button just once. Use run buttons while in the air to gain extra height.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/trackfld-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Sports / Sports / Running trails</genre>
+		<players>4</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/trackfld-video.mp4</video>
+	</game>
+	<game id="43774" source="screenscraper.fr">
+		<path>./tumblep.zip</path>
+		<name>Tumble Pop</name>
+		<desc>Tumble Pop is a platform game for one or two players in which the aim is to clear each level of enemies by sucking them into - then ejecting them from - a portable vacuum-cleaner. 
+
+Holding down the fire button sucks the enemies into the cleaner, releasing the button causes them to be expelled back out. Ejected enemies act as projectiles that can damage and kill any other on-screen enemies that they collide with. All enemies must be killed before players can progress to the next stage. 
+
+Throughout the game, letters of the alphabet randomly appear in bubbles. These can be collected to eventually spell the word &amp;quot;TUMBLEPOP&amp;quot;. Once this has been achieved players are transported to a time-limited bonus level, giving them the opportunity to earn bonus points and extra lives. 
+
+</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/tumblep-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Platform / Plateform / Run Jump</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/tumblep-video.mp4</video>
+	</game>
+	<game id="44124" source="screenscraper.fr">
+		<path>./wrestwar.zip</path>
+		<name>Wrestle War</name>
+		<desc>Lead rookie wrestler Bruce Blade to the top of the wrestling world in this 1989 arcade game by Sega.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/wrestwar-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports / Sports / Wrestling</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/wrestwar-video.mp4</video>
+	</game>
+	<game id="44144" source="screenscraper.fr">
+		<path>./wwfmania.zip</path>
+		<name>Wwf - Wrestlemania</name>
+		<desc>8 selectable wrestlers fights in mayhem with punishing head-to-head and team match-ups and gruelling WWF and Intercontinental title bouts. Features in-ring commentary by Vince McMahon and Jerry 'The King' Lawler.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/wwfmania-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer />
+		<publisher>Midway</publisher>
+		<genre>Sports / Sports / Wrestling</genre>
+		<players>2</players>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/wwfmania-video.mp4</video>
+	</game>
+	<game>
+		<path>./88games.zip</path>
+		<name>'88 Games</name>
+		<desc>Konami '88 (also known as '88 Games or Hyper Sports Special) is the third in the Track &amp; Field game series by Konami, where you test your Olympic skills against other world-class athletes. As the name implies, it is loosely based on (and not licensed by) the 1988 Summer Olympics in Seoul, South Korea. Bronze or silver medals are not good enough - you have to go for the gold to get to the next event. However, you must at least qualify in each event in order to compete in the next event.</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/88games-image.jpg</image>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/88games-video.mp4</video>
+		<rating>0.6</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Sports / Sports / Running trails</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20191229T183718</lastplayed>
+	</game>
+	<game>
+		<path>./1941.zip</path>
+		<name>1941 - Counter Attack</name>
+		<desc>The goal is to shoot down enemy airplanes and collect weapon power-ups (POW). One is only able to perform three loops per level and a bonus is awarded at the end of the level for unused loops. Player 1 uses a P-38 Lightning and Player 2 uses a Mosquito Mk IV. The game shifts from the original Pacific Front setting with that of the Western Front.
+
+The game consists of six levels.
+
+It was the first shoot 'em up to add +1 to the score when a continue is used.[1]</desc>
+		<image>~/.emulationstation/downloaded_images/mame-libretro/1941-image.jpg</image>
+		<video>~/.emulationstation/downloaded_images/mame-libretro/1941-video.mp4</video>
+		<rating>0.8</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em up / Vertical / Shoot'em Up</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20191229T183747</lastplayed>
+	</game>
+</gameList>
