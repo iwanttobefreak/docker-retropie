@@ -43,4 +43,5 @@ RUN sudo chown -R pi.pi /home/retropie \
     && sudo chown -R pi.pi /opt/retropie/configs/all/emulationstation/gamelists/
 
 RUN sudo usermod -aG adm,dialout,cdrom,sudo,audio,video,plugdev,games,users pi
-CMD sudo su - pi -c "export DISPLAY=:0 ; /usr/bin/emulationstation"
+USER root
+CMD su - pi -c "export DISPLAY=:0 ; /usr/bin/emulationstation"
