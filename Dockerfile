@@ -27,7 +27,8 @@ COPY files/videos/snes/* /home/retropie/.emulationstation/downloaded_images/snes
 COPY files/gamelist/snes/gamelist.xml /opt/retropie/configs/all/emulationstation/gamelists/snes/gamelist.xml
 
 
-RUN sudo chown -R pi.pi /home/retropie
+RUN sudo chown -R pi.pi /home/retropie \
+    && sudo chown -R pi.pi /opt/retropie/configs/all/emulationstation/gamelists/
 
 RUN sudo usermod -aG adm,dialout,cdrom,sudo,audio,video,plugdev,games,users pi
 ENTRYPOINT "/usr/bin/emulationstation"
