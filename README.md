@@ -1,5 +1,5 @@
 # Descripción
-Imagen Docker con Retropie y roms con vídeos para juegos de
+Imagen Docker con Retropie y roms con vídeos para juegos para
 - Amstrad
 - Super Nintendo
 - Arcade (MAME)
