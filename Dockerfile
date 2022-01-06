@@ -14,19 +14,15 @@ RUN git clone --depth=1 https://github.com/RetroPie/RetroPie-Setup.git \
     && chmod +x retropie_setup.sh \
     && sudo ./retropie_packages.sh setup basic_install
 
-COPY files/roms/mame-libretro/* /home/retropie/RetroPie/roms/mame-libretro/
 COPY files/videos/mame-libretro/* /home/retropie/.emulationstation/downloaded_images/mame-libretro/
 COPY files/gamelist/mame-libretro/gamelist.xml /opt/retropie/configs/all/emulationstation/gamelists/mame-libretro/gamelist.xml
 
-COPY files/roms/amstradcpc/* /home/retropie/RetroPie/roms/amstradcpc/
 COPY files/videos/amstradcpc/* /home/retropie/.emulationstation/downloaded_images/amstradcpc/
 COPY files/gamelist/amstradcpc/gamelist.xml /opt/retropie/configs/all/emulationstation/gamelists/amstradcpc/gamelist.xml
 
-COPY files/roms/snes/* /home/retropie/RetroPie/roms/snes/
 COPY files/videos/snes/* /home/retropie/.emulationstation/downloaded_images/snes/
 COPY files/gamelist/snes/gamelist.xml /opt/retropie/configs/all/emulationstation/gamelists/snes/gamelist.xml
 
-COPY files/roms/msx/* /home/retropie/RetroPie/roms/msx/
 COPY files/videos/msx/* /home/retropie/.emulationstation/downloaded_images/msx/
 COPY files/gamelist/msx/gamelist.xml /opt/retropie/configs/all/emulationstation/gamelists/msx/gamelist.xml
 
