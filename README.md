@@ -1,8 +1,5 @@
 # Descripción
-Imagen Docker con Retropie y roms con vídeos para juegos para
-- Amstrad
-- Super Nintendo
-- Arcade (MAME)
+Imagen Docker con Retropie
 
 # Uso
 docker run --rm -v /dev/snd:/dev/snd -v /tmp/.X11-unix:/tmp/.X11-unix -e DISPLAY=$DISPLAY --privileged -t iwanttobefreak/retropie
